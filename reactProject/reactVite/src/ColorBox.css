@@ -1,0 +1,16 @@
+.container{
+  display:grid;
+  grid-template-columns:auto auto auto auto auto;
+
+  background-color: rgba(84, 244, 236, 0.671);
+  padding:10px
+
+
+}
+.colorbox{
+ 
+  border:1px solid black;
+  padding:50px;
+  font-size:50px;
+  text-align:center;
+}
